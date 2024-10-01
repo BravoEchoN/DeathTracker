@@ -1,5 +1,5 @@
 DeathTracker (v1.1.0)
-DeathTracker is a Rust server plugin designed to track player deaths and manage penalties when death limits are exceeded. The plugin integrates with the Economics plugin to apply monetary penalties when players surpass a configurable number of lives. If players cannot pay the penalty, they are banned and kicked from the server until the next server wipe or they are unbanned by an admin.
+DeathTracker is a Rust oxide server plugin designed to track player deaths and manage penalties when death limits are exceeded. The plugin integrates with the Economics plugin to apply monetary penalties when players surpass a configurable number of lives. If players cannot pay the penalty, they are banned and kicked from the server until the next server wipe or they are unbanned by an admin.
 
 Features:
 Death Tracking: Monitor the number of deaths for each player.
